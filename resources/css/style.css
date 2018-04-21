@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("file:///C:/Users/Chun/Documents/coding_projects/dasmotos_arts_crafts/resources/images/pattern.jpeg");
+}
+
+#brushes h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+h3,
+p {
+  font-family: Helvetica;
+}
